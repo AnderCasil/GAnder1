@@ -9,5 +9,7 @@ package prueba2;
  * @author Ander
  */
 public class Rama1 {
-    
+    public static void main(String[] args) {
+        System.out.println("Hora Rama");
+    }
 }
