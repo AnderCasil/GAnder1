@@ -13,6 +13,7 @@ public class Prueba1 {
         System.out.println("Hola Mundo");
         System.out.println("No mas mundo");
         System.out.println("Si mas mundo");
+        System.out.println("Conflicto usuario1");
         System.out.println("Conflicto");
     }
 }
